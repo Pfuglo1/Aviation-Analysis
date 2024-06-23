@@ -90,11 +90,11 @@ To run the Jupyter Notebook and reproduce the analysis:
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Pfuglo1/Aviation-Analysis.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd <project-directory>
+    cd Aviation-Analysis
     ```
 3. Install the required dependencies (see below).
 4. Open the Jupyter Notebook:
