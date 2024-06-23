@@ -4,6 +4,8 @@
 
 This project aims to identify the safest aircraft for a company looking to diversify its portfolio by entering the aviation industry. The analysis includes data preparation, exploratory data analysis, and modeling to determine the key variables that make an aircraft safe.
 
+[PowerPoint Presentation](https://github.com/Pfuglo1/Aviation-Analysis/blob/main/Phase%201.pptx)
+
 ## Table of Contents
 
 1. [Business Understanding](#business-understanding)
