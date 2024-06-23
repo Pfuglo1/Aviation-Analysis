@@ -27,6 +27,8 @@ Your company is expanding into new industries to diversify its portfolio. Specif
 ### Goal
 Find the variables that make an airplane the safest and provide business recommendations based on these findings.
 
+(https://github.com/Pfuglo1/Aviation-Analysis/blob/main/Images/Model.PNG)
+
 ## Data Understanding
 
 ### Dataset Overview
